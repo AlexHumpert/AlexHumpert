@@ -8,6 +8,10 @@
 - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/alex-humpert/) or humpertalex@gmail.com
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I can wake up without alarm clock
+- Check out my data analytics and data science portfolios! Feedback is highly welcomed!
+
+[Data Analytics Portfolio](https://github.com/AlexHumpert/Alex_Data_Analytics_Portfolio)
+[Data Science Portfolio](https://github.com/AlexHumpert/Alex_Data_Science_Portfolio)
 
 <!--
 **AlexHumpert/AlexHumpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
