@@ -12,7 +12,7 @@ Feel free to explore my portfolio of projects! Feedback is highly welcomed, it's
 #### [Data Analytics Portfolio](https://github.com/AlexHumpert/Alex_Data_Science_Portfolio) <br>
   i. [Linear Regression of Relative Size of Service Sector vs GDP per Capita](https://github.com/AlexHumpert/GDP-Capita_vs_Service_Sector) - Excel (Spring, 2021) <br> 
   ii. [Dashboard of GDP & C02 Emissions per Capita](https://public.tableau.com/app/profile/alex.h/viz/CapitaxCO2Dashboard/Dashboard) Tableau (Summer, 2020) <br>
-  iii. [EDA of State of Iowa Liquor Sales](https://public.tableau.com/app/profile/alex.h/viz/iowa_liquor/Story2) - Tableau (Winter, 2020) <br>
+  iii. [EDA of State of Iowa Liquor Sales](https://public.tableau.com/app/profile/alex.h/viz/iowa_liquor/Story2) - Tableau (Fall, 2020) <br>
   iv. [EDA of Jain University Job Placements](https://github.com/AlexHumpert/EDA_Jain_University_Placements) - Python: Pandas, Matplotlib (Summer, 2020) <br>
   v. [EDA_Fatal_Police_Shootings Public](https://github.com/AlexHumpert/EDA_Fatal_Police_Shootings) - Python: pandas, matplotlib, seaborn, statsmodel (Summer, 2020)
   
