@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Check out my data analytics and data science portfolios! Feedback is highly welcomed!
+Check out my data analytics and data science portfolios! Feedback is highly welcomed!
 1. [Data Analytics Portfolio](https://github.com/AlexHumpert/Alex_Data_Analytics_Portfolio)
 2. [Data Science Portfolio](https://github.com/AlexHumpert/Alex_Data_Science_Portfolio)
 
