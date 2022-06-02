@@ -4,7 +4,7 @@ My name is Alex! During the isolation of the pandemic in early 2020 I set out on
 
 2 and a half years later and I've accumulated some nice projects for your enjoyment. With every project I try to push my learnings to the next level, whether that be tackling a more challenging problem or learning more sophisticated data mining techniques. <br>
 
-Feel free to explore! Feedback is highly welcomed, it's the best way to learn :) 
+Feel free to explore my portfolio of projects! Feedback is highly welcomed, it's the best way to learn :) 
 
 1. [Data Analytics Portfolio](https://github.com/AlexHumpert/Alex_Data_Analytics_Portfolio) <br>
   i. [Real-time Twitter Covid-19 Fake News Classifer](https://github.com/AlexHumpert/Covid_19_Tweet_Fake_News_Detection) (Apache Kafka, PySpark, MariaDB) (Winter, 2022) <br>
