@@ -4,6 +4,8 @@ My name is Alex! During the isolation of the pandemic in early 2020 I set out on
 
 Two and a half years later and I've accumulated some nice projects for your enjoyment. With every project I try to push my learnings to the next level, whether that be tackling a more challenging problem or learning more sophisticated data mining techniques. <br>
 
+My goal is to take my learnings to the next level and land an entry level data science or data anlytics role at a tech company. Hopefully in a few months I can update my profile to reflect this change!! :grin:  :muscle: :muscle: :facepunch:
+
 Feel free to explore my portfolio of projects! Feedback is highly welcomed, it's the best way to learn :) 
 
 #### [Data Science Portfolio](https://github.com/AlexHumpert/Alex_Data_Analytics_Portfolio) <br>
