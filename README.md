@@ -11,7 +11,7 @@ Check out my data analytics and data science portfolios! Feedback is highly welc
 - 💬 Ask me about why rock climbing and programming are more similar that you would expect
 - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/alex-humpert/) or humpertalex@gmail.com
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I can wake up without alarm clock
+- ⚡ Fun fact: I can wake up without an alarm clock
 
 
 <!--
