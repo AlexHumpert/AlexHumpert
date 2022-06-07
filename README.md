@@ -4,14 +4,14 @@ My name is Alex! During the isolation of the pandemic in early 2020 I set out on
 
 Two and a half years later and I've accumulated some nice projects for your enjoyment. With every project I try to push my learnings to the next level, whether that be tackling a more challenging problem or learning more sophisticated data mining techniques. <br>
 
-My goal is to take my learnings to the next level and land an entry level data science or data anlytics role at a tech company. Hopefully in a few months I can update my profile to reflect this change!! :grin:  :muscle: :muscle: :facepunch:
+My goal with this github repo is to showcase the projects I have been working on in an easy to consume way. Feel free to explore - feedback is highly welcome!! :grin:  :muscle: :muscle: :facepunch:
 
-Feel free to explore my portfolio of projects! Feedback is highly welcomed, it's the best way to learn :) 
 
-#### [Data Science Portfolio](https://github.com/AlexHumpert/Alex_Data_Analytics_Portfolio) <br>
+
+### [Data Science Portfolio](https://github.com/AlexHumpert/Alex_Data_Analytics_Portfolio) <br>
   i. [Real-time Twitter Covid-19 Fake News Classifer](https://github.com/AlexHumpert/Covid_19_Tweet_Fake_News_Detection) - Apache Kafka, PySpark, MariaDB (Spring, 2022) <br>
   ii. [Forest Cover Type Prediction Challenge, Multiclass Classification](https://github.com/AlexHumpert/Forest_Cover_Type_Prediction_Competition) - Python: scikit-Learn, Pandas, Seaborn (Spring, 2022)<br>
-#### [Data Analytics Portfolio](https://github.com/AlexHumpert/Alex_Data_Science_Portfolio) <br>
+### [Data Analytics Portfolio](https://github.com/AlexHumpert/Alex_Data_Science_Portfolio) <br>
   i. [Linear Regression of Relative Size of Service Sector vs GDP per Capita](https://github.com/AlexHumpert/GDP-Capita_vs_Service_Sector) - Excel (Spring, 2021) <br> 
   ii. [Dashboard of GDP & C02 Emissions per Capita](https://public.tableau.com/app/profile/alex.h/viz/CapitaxCO2Dashboard/Dashboard) Tableau (Summer, 2020) <br>
   iii. [EDA of State of Iowa Liquor Sales](https://public.tableau.com/app/profile/alex.h/viz/iowa_liquor/Story2) - Tableau (Fall, 2020) <br>
