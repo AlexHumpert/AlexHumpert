@@ -9,7 +9,8 @@ My goal with this github repo is to showcase the projects I have been working on
 
 ### [Data Science Portfolio](https://github.com/AlexHumpert/Alex_Data_Science_Portfolio) <br>
   i. [Real-time Twitter Covid-19 Fake News Classifer](https://github.com/AlexHumpert/Covid_19_Tweet_Fake_News_Detection) - Apache Kafka, PySpark, MariaDB (Spring, 2022) <br>
-  ii. [Forest Cover Type Prediction Challenge, Multiclass Classification](https://github.com/AlexHumpert/Forest_Cover_Type_Prediction_Competition) - Python: scikit-Learn, Pandas, Seaborn (Spring, 2022)<br>
+  ii. [Forest Cover Type Prediction Challenge, Multiclass Classification](https://github.com/AlexHumpert/Forest_Cover_Type_Prediction_Competition) - Python: Scikit-Learn, Pandas, Seaborn (Spring, 2022)<br>
+ iii. [Smart Tourism Recommender System] (https://github.com/AlexHumpert/Smart_Tourism_Recommender/blob/main/README.md) - Python: scikit-learn, Pandas, Seaborn, Implicit, FuzzyWuzzy, Textblob <br>
 ### [Data Analytics Portfolio](https://github.com/AlexHumpert/Alex_Data_Analytics_Portfolio) <br>
   i. [Linear Regression of Relative Size of Service Sector vs GDP per Capita](https://github.com/AlexHumpert/GDP-Capita_vs_Service_Sector) - Excel (Spring, 2021) <br> 
   ii. [Dashboard of GDP & C02 Emissions per Capita](https://public.tableau.com/app/profile/alex.h/viz/CapitaxCO2Dashboard/Dashboard) Tableau (Summer, 2020) <br>
