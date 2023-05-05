@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alex! During the isolation of the pandemic in early 2020 I set out on a journey to learn data science. Since then I have completed a data analytics bootcamp, taken online courses in statistics and python programming and am now about to complete a Masters in Business Analytics and Big Data at IE University in Madrid. <br>
+My name is Alex! During the isolation of the pandemic in early 2020 I set out on a journey to learn data science. Since then I have completed a data analytics bootcamp, taken online courses in statistics and python programming now about to completed a Masters in Business Analytics and Big Data at IE University in Madrid. <br>
 
 Two and a half years later and I've accumulated some nice projects for your enjoyment - across data visualization, exploratory data analytics, machine learning and even dabbling into some big data technologies. With every project I try to push my learnings to the next level, through tackling more challenging problems or learning more sophisticated data mining techniques. <br>
 
