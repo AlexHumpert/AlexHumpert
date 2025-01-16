@@ -2,7 +2,7 @@
 
 My name is Alex! During the isolation of the pandemic in early 2020 I set out on a journey to learn data science. Since then I have completed a data analytics bootcamp, taken online courses in statistics and python programming now about to completed a Masters in Business Analytics and Big Data at IE University in Madrid. <br>
 
-Since Oct 2022 I started working at VML MAP, based on Copenhagen, as a Data Strategy Consultant. Here, I advise Fortune 500 clients on emerging AI technologies and their practical applications within enterprise marketing ecosystems, driving digital transformation initiatives across global markets. __I have had the opportunity to work on many exciting projects, including AI systems, and have yet to update my Github!__
+In Oct 2022 I joined VML MAP, a marketing center of excellence based on Copenhagen, as a Data Strategy Consultant. Here, I advise Fortune 500 clients on emerging AI technologies and their practical applications within enterprise marketing ecosystems, driving digital transformation initiatives across global markets. __I have had the opportunity to work on many exciting projects, including AI systems, and have yet to update my Github!__
 
 The projects below reflect my __interests prior to joining VML MAP__. Looking forward to update my Github with new projects!
 
