@@ -22,14 +22,7 @@ My goal with this github repo is to showcase the projects I have been working on
   iv. [EDA of Jain University Job Placements](https://github.com/AlexHumpert/EDA_Jain_University_Placements) - Python: Pandas, Matplotlib (Summer, 2020) <br>
   v. [EDA_Fatal_Police_Shootings Public](https://github.com/AlexHumpert/EDA_Fatal_Police_Shootings) - Python: pandas, matplotlib, seaborn, statsmodel (Summer, 2020)
   
-- 🔭 I’m currently working on a recommendation system to provide personalized touristic experiences for a smart tourism app
-- 🌱 I’m currently learning Deep Neural Networks
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 🤔 I’m looking for help on how to enter the data science world with a background in the humanities
-- 💬 Ask me about why rock climbing and programming are more similar that you would expect
 - 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/alex-humpert/) or humpertalex@gmail.com
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I can wake up without an alarm clock
 
 
 <!--
